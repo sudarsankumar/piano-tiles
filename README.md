@@ -12,4 +12,4 @@ git clone "https://github.com/sudarsankumar/piano-tiles.git"
 ```
 
 ## demo link
-[Piano Tiles](https://sudarsankumar.github.io/password-generator-of-fifferent-length-and-combination-using-html-css-js/)
+[Piano Tiles](https://sudarsankumar.github.io/piano-tiles/)
